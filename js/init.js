@@ -307,7 +307,7 @@
  Google Forms sending 
 */
 (function ($) {
-    var succes_msg = "Successufully send the details",
+    var succes_msg = "Successufully sent the details",
         failure_msg = "There was some error sending the details",
         validation_msg = "Data provided is invalid, please check";
 
